@@ -1,5 +1,5 @@
 # Sci-Fi-Fps
-A Sci-Fi fps game.
+A Sci-Fi third-person shooter game.
 If you have any question, please, let me know.
 
 ## Engine
